@@ -1,12 +1,11 @@
-# ⚠️ Fork your own risk 
+# ⚠️ Fork On your own risk 
 # [RM] Group Manager
 <p align="center">
-    <a href="https://github.com/p-rinc-e/Elizabeth/commits/master"><img src="https://img.shields.io/github/last-commit/p-rinc-e/Elizabeth/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
-    <a href="https://github.com/p-rinc-e/Elizabeth/stargazers"><img src="https://img.shields.io/github/stars/p-rinc-e/Elizabeth?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-    <a href="https://github.com/p-rinc-e/Elizabeth/network/members"><img src="https://img.shields.io/github/forks/p-rinc-e/Elizabeth?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+    <a href="https://github.com/REQUESTMOVIES-FAMILY/Elizabeth/commits/master"><img src="https://img.shields.io/github/last-commit/REQUESTMOVIES-FAMILY/Elizabeth/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/REQUESTMOVIES-FAMILY/Elizabeth/stargazers"><img src="https://img.shields.io/github/stars/REQUESTMOVIES-FAMILY/Elizabeth?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/REQUESTMOVIES-FAMILY/Elizabeth/network/members"><img src="https://img.shields.io/github/forks/REQUESTMOVIES-FAMILY/Elizabeth?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
-![logo](https://telegra.ph/file/bd72857322159140bec6b.jpg)
 💌 Reach me on Telegram [[RM] Group Manager](https://t.me/RM_GMANAGERBOT)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
